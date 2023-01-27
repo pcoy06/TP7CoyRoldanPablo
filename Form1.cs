@@ -20,7 +20,7 @@ namespace TP7CoyRoldanPablo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            cargar(); // actualizamos la lista
+            cargar(); // actualizamos la listas
             
 
         }
